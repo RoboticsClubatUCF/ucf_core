@@ -1,0 +1,16 @@
+# folders to ignore
+build/
+bin/
+devel/
+lib/
+msg_gen/
+srv_gen/
+
+# backup extended files
+*.backup
+
+# qtcreator auto-files
+CMakeLists.txt.user
+
+# Jetbrains IDE files
+.idea/
