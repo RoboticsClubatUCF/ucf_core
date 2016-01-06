@@ -6,7 +6,6 @@ Workspace containing anything platform independent for UCF Robotics Club vehicle
 
 ## <a name="packages"></a>Packages
 Below is a brief description of and links to the various ROS packages in this workspace.
-* [core_bringup](https://github.com/RoboticsClubatUCF/ucf_core/tree/master/src/core/core_bringup) -- Launch files for more convenient integration of sensors implemented through this workspace.
 * [core_description](https://github.com/RoboticsClubatUCF/ucf_core/tree/master/src/core/core_description) -- URDF descriptions for components common between vehicles like sensors.
 * [waypoint_manager](https://github.com/RoboticsClubatUCF/ucf_core/tree/master/src/core_apps/waypoint_manager) -- Simple waypoint tracking package supporting navigation in order to a set of waypoints.
 * [waypoint_manager_msgs](https://github.com/RoboticsClubatUCF/ucf_core/tree/master/src/core_apps/waypoint_manager_msgs) -- Messages, services, etc used by the [waypoint_manager](https://github.com/RoboticsClubatUCF/ucf_core/tree/master/src/core_apps/waypoint_manager) package.
