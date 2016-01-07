@@ -27,7 +27,7 @@ If you're completely new, follow these steps to get up and running with our curr
 3. Fork (recommended if you're looking to get involved in development) and clone this repository.
 
 4. Build ucf_core first.
-  1. In a terminal navigate to ../ucf_robotics/ucf_core/ , enter the following:
+  1. In a terminal navigate to ../ucf_core/ , enter the following:
     
     `rosdep install -i -y --from-paths src`
     
